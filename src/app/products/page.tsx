@@ -24,7 +24,7 @@ export default function ProductsPage() {
       </section>
 
       <section className="text-center mt-16 p-8 bg-secondary/30 rounded-xl">
-        <h2 className="text-3xl font-semibold text-primary mb-4">Why Choose CafeAtOnce?</h2>
+        <h2 className="text-3xl font-semibold text-primary mb-4">Why Choose Cafe@once?</h2>
         <div className="grid md:grid-cols-3 gap-6 text-left">
           <div className="p-4">
             <h3 className="text-xl font-medium text-accent mb-2">Premium Quality</h3>
@@ -45,6 +45,6 @@ export default function ProductsPage() {
 }
 
 export const metadata = {
-  title: 'Our Products - CafeAtOnce',
-  description: 'Explore the full range of CafeAtOnce coffee concentrates. Classic, Vanilla, Caramel, Mocha, and Hazelnut flavors available.',
+  title: 'Our Products - Cafe@once',
+  description: 'Explore the full range of Cafe@once coffee concentrates. Classic, Vanilla, Caramel, Mocha, and Hazelnut flavors available.',
 };

@@ -65,7 +65,7 @@ export default function FlavorFinderClient() {
             Tell Us Your Preferences
           </CardTitle>
           <CardDescription>
-            Answer a couple of questions and our AI will suggest the perfect CafeAtOnce flavor for you.
+            Answer a couple of questions and our AI will suggest the perfect Cafe@once flavor for you.
           </CardDescription>
         </CardHeader>
         <Form {...form}>
@@ -109,7 +109,7 @@ export default function FlavorFinderClient() {
               />
             </CardContent>
             <CardFooter>
-              <Button type="submit" disabled={isLoading} className="w-full bg-primary hover:bg-accent text-primary-foreground hover:text-accent-foreground transition-colors py-6 text-lg">
+              <Button type="submit" disabled={isLoading} className="w-full bg-primary hover:bg-primary/90 text-primary-foreground hover:text-accent-foreground transition-colors py-6 text-lg">
                 {isLoading ? (
                   <>
                     <Loader2 className="mr-2 h-5 w-5 animate-spin" />

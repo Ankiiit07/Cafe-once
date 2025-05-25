@@ -24,7 +24,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link href="/" className="flex items-center space-x-2 text-2xl font-bold hover:text-accent transition-colors">
           <Coffee size={32} />
-          <span>CafeAtOnce</span>
+          <span>Cafe@once</span>
         </Link>
 
         {/* Desktop Navigation */}
@@ -52,7 +52,7 @@ export default function Navbar() {
               <div className="flex justify-between items-center mb-8">
                 <Link href="/" className="flex items-center space-x-2 text-xl font-bold" onClick={() => setIsMobileMenuOpen(false)}>
                   <Coffee size={28} />
-                  <span>CafeAtOnce</span>
+                  <span>Cafe@once</span>
                 </Link>
                 <SheetClose asChild>
                    <Button variant="ghost" size="icon" className="hover:bg-primary-foreground hover:text-primary">

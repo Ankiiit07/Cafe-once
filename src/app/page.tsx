@@ -26,10 +26,10 @@ export default function HomePage() {
         </div>
         <div className="container mx-auto px-4 text-center relative z-10">
           <h1 className="text-5xl md:text-7xl font-bold text-primary mb-6">
-            Discover Your <span className="text-accent">Perfect CafeAtOnce Moment</span>
+            Discover Your <span className="text-accent">Perfect Cafe@once Moment</span>
           </h1>
           <p className="text-xl md:text-2xl text-foreground mb-10 max-w-3xl mx-auto">
-            Premium coffee concentrates, crafted for the Indian palate. Enjoy café-quality coffee at home, effortlessly with CafeAtOnce.
+            Premium coffee concentrates, crafted for the Indian palate. Enjoy café-quality coffee at home, effortlessly with Cafe@once.
           </p>
           <div className="space-x-4">
             <Button size="lg" asChild className="bg-primary hover:bg-primary/90 text-primary-foreground px-10 py-7 text-lg rounded-lg shadow-md hover:shadow-lg transition-all">
@@ -62,7 +62,7 @@ export default function HomePage() {
         <Bot size={64} className="mx-auto mb-6 text-primary" />
         <h2 className="text-4xl font-bold text-primary mb-6">Can't Decide? Let Us Help!</h2>
         <p className="text-lg text-foreground mb-8 max-w-2xl mx-auto">
-          Our AI-powered Flavor Finder considers your unique tastes and dietary needs to recommend the perfect CafeAtOnce concentrate for you.
+          Our AI-powered Flavor Finder considers your unique tastes and dietary needs to recommend the perfect Cafe@once concentrate for you.
         </p>
         <Button size="lg" asChild className="bg-primary hover:bg-primary/90 text-primary-foreground px-10 py-7 text-lg rounded-lg shadow-md hover:shadow-lg transition-all">
           <Link href="/flavor-finder">Launch Flavor Finder</Link>
@@ -80,7 +80,7 @@ export default function HomePage() {
           </CardHeader>
           <CardContent>
             <p className="text-foreground mb-4">
-              We deliver CafeAtOnce across India! Get your favorite coffee concentrates delivered right to your doorstep.
+              We deliver Cafe@once across India! Get your favorite coffee concentrates delivered right to your doorstep.
             </p>
             <Button variant="outline" asChild className="border-accent text-accent hover:bg-accent hover:text-accent-foreground rounded-lg">
               <Link href="/shipping">Shipping Details</Link>

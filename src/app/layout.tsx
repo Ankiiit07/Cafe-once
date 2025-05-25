@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'CafeAtOnce - Premium Coffee Concentrates',
-  description: 'Discover your perfect coffee moment with CafeAtOnce premium coffee concentrates, specially crafted for India.',
+  title: 'Cafe@once - Premium Coffee Concentrates',
+  description: 'Discover your perfect coffee moment with Cafe@once premium coffee concentrates, specially crafted for India.',
 };
 
 export default function RootLayout({

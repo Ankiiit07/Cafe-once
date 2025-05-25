@@ -10,7 +10,7 @@ export default function ShippingPage() {
           <Truck size={48} className="mr-4 text-accent" /> Shipping & Returns
         </h1>
         <p className="text-xl text-foreground max-w-2xl mx-auto">
-          Everything you need to know about how we get your CafeAtOnce to you, and our returns policy.
+          Everything you need to know about how we get your Cafe@once to you, and our returns policy.
         </p>
       </header>
 
@@ -23,7 +23,7 @@ export default function ShippingPage() {
             </CardTitle>
           </CardHeader>
           <CardContent className="space-y-3 text-foreground">
-            <p>We are thrilled to offer shipping for all CafeAtOnce products across the nation!</p>
+            <p>We are thrilled to offer shipping for all Cafe@once products across the nation!</p>
             <p>Whether you're in a bustling metro city or a quiet town, we aim to deliver your coffee concentrates right to your doorstep.</p>
             <p>Standard shipping charges apply and will be calculated at checkout based on your location.</p>
             <p>We partner with reliable courier services to ensure your package arrives safely and on time.</p>
@@ -66,6 +66,6 @@ export default function ShippingPage() {
 }
 
 export const metadata = {
-  title: 'Shipping & Returns - CafeAtOnce',
-  description: 'Information about CafeAtOnce shipping policies, delivery timelines across India, and our return policy for coffee concentrates.',
+  title: 'Shipping & Returns - Cafe@once',
+  description: 'Information about Cafe@once shipping policies, delivery timelines across India, and our return policy for coffee concentrates.',
 };
