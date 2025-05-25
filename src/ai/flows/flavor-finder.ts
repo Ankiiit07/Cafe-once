@@ -61,7 +61,7 @@ Consider the available coffee concentrate flavors:
 - Caramel Liquid Coffee Concentrate: Sweet and rich caramel flavor.
 - Mocha Liquid Coffee Concentrate: Chocolate and coffee blend.
 - Hazelnut Liquid Coffee Concentrate: Nutty hazelnut flavor.
-- Coconut Liquid Coffee Concentrate: Tropical coconut flavor.
+- Jasmine Liquid Coffee Concentrate: Tropical coconut flavor.
 - Cinnamon Liquid Coffee Concentrate: Warm cinnamon spice flavor.
 - Dark Roast Liquid Coffee Concentrate: Bold and intense coffee.
 - Light Roast Liquid Coffee Concentrate: Smooth and bright coffee.
