@@ -1,3 +1,4 @@
+
 // This file is machine-generated - edit at your own risk.
 
 'use server';
@@ -55,13 +56,18 @@ Dietary Restrictions: {{{dietaryRestrictions}}}
 Flavor Preferences: {{{flavorPreferences}}}
 
 Consider the available coffee concentrate flavors:
-- Classic Latte: The original, creamy coffee concentrate.
-- Vanilla Latte: Infused with natural vanilla flavor.
-- Caramel Latte: Sweet and rich caramel flavor.
-- Mocha Latte: Chocolate and coffee blend.
-- Hazelnut Latte: Nutty hazelnut flavor.
+- Original Liquid Coffee Concentrate: The signature, balanced coffee concentrate.
+- Vanilla Liquid Coffee Concentrate: Infused with natural vanilla flavor.
+- Caramel Liquid Coffee Concentrate: Sweet and rich caramel flavor.
+- Mocha Liquid Coffee Concentrate: Chocolate and coffee blend.
+- Hazelnut Liquid Coffee Concentrate: Nutty hazelnut flavor.
+- Coconut Liquid Coffee Concentrate: Tropical coconut flavor.
+- Cinnamon Liquid Coffee Concentrate: Warm cinnamon spice flavor.
+- Dark Roast Liquid Coffee Concentrate: Bold and intense coffee.
+- Light Roast Liquid Coffee Concentrate: Smooth and bright coffee.
+- Decaf Liquid Coffee Concentrate: Rich coffee flavor, decaffeinated.
 
-Based on the users input, recommend one of the available flavors and explain why it is a good fit for them. If none of the flavors fit the dietary restictions, state that none are suitable.
+Based on the users input, recommend one of the available flavors and explain why it is a good fit for them. If none of the flavors fit the dietary restictions, state that none are suitable. If a dietary restriction like "nut allergy" is mentioned, avoid recommending Hazelnut.
 `,
 });
 
