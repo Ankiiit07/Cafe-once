@@ -11,7 +11,7 @@ export default function RetailersPage() {
           <MapPin size={48} className="mr-4 text-accent" /> Find Us Near You
         </h1>
         <p className="text-xl text-foreground max-w-2xl mx-auto">
-          Discover local stores and cafes in India where you can find Latte Bliss coffee concentrates.
+          Discover local stores and cafes in India where you can find CafeAtOnce coffee concentrates.
         </p>
       </header>
 
@@ -24,7 +24,7 @@ export default function RetailersPage() {
         </CardHeader>
         <CardContent className="space-y-4 text-foreground">
           <p className="text-lg">
-            We're working hard to bring you an interactive map that will help you locate Latte Bliss India retailers in your region. This feature will use IP Geolocation to show you the closest stores.
+            We're working hard to bring you an interactive map that will help you locate CafeAtOnce retailers in your region. This feature will use IP Geolocation to show you the closest stores.
           </p>
           <div className="my-8 p-6 bg-secondary/30 rounded-lg flex flex-col items-center text-center">
             <Image src="https://placehold.co/600x400.png" alt="Map placeholder" width={600} height={400} className="rounded-md shadow-md mb-4" data-ai-hint="map illustration location" />
@@ -58,6 +58,6 @@ export default function RetailersPage() {
 }
 
 export const metadata = {
-  title: 'Find Our Retailers - Latte Bliss India',
-  description: 'Locate stores and cafes in India that stock Latte Bliss coffee concentrates. Interactive map coming soon.',
+  title: 'Find Our Retailers - CafeAtOnce',
+  description: 'Locate stores and cafes in India that stock CafeAtOnce coffee concentrates. Interactive map coming soon.',
 };

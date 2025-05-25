@@ -65,7 +65,7 @@ export default function FlavorFinderClient() {
             Tell Us Your Preferences
           </CardTitle>
           <CardDescription>
-            Answer a couple of questions and our AI will suggest the perfect Latte Bliss flavor for you.
+            Answer a couple of questions and our AI will suggest the perfect CafeAtOnce flavor for you.
           </CardDescription>
         </CardHeader>
         <Form {...form}>

@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Latte Bliss India - Premium Coffee Concentrates',
-  description: 'Discover your perfect latte bliss with our premium coffee concentrates, specially crafted for India.',
+  title: 'CafeAtOnce - Premium Coffee Concentrates',
+  description: 'Discover your perfect coffee moment with CafeAtOnce premium coffee concentrates, specially crafted for India.',
 };
 
 export default function RootLayout({

@@ -49,7 +49,7 @@ export default function ContactPage() {
               </CardTitle>
             </CardHeader>
             <CardContent className="text-foreground">
-              <p>Latte Bliss India Headquarters</p>
+              <p>CafeAtOnce Headquarters</p>
               <p>123 Coffee Lane, Bean Town</p>
               <p>Mumbai, Maharashtra, India</p>
               <p className="text-sm text-muted-foreground">(Office address is illustrative for this demo.)</p>
@@ -62,6 +62,6 @@ export default function ContactPage() {
 }
 
 export const metadata = {
-  title: 'Contact Us - Latte Bliss India',
-  description: 'Get in touch with Latte Bliss India for inquiries, feedback, or support. Fill out our contact form or find our contact details.',
+  title: 'Contact Us - CafeAtOnce',
+  description: 'Get in touch with CafeAtOnce for inquiries, feedback, or support. Fill out our contact form or find our contact details.',
 };

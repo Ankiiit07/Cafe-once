@@ -10,7 +10,7 @@ export default function FlavorFinderPage() {
           <Bot size={48} className="mr-4 text-accent" /> AI Flavor Finder
         </h1>
         <p className="text-xl text-foreground max-w-3xl mx-auto">
-          Let our smart assistant help you choose the perfect Latte Bliss concentrate. Just tell us a bit about your tastes and dietary needs!
+          Let our smart assistant help you choose the perfect CafeAtOnce concentrate. Just tell us a bit about your tastes and dietary needs!
         </p>
       </header>
 
@@ -29,6 +29,6 @@ export default function FlavorFinderPage() {
 }
 
 export const metadata = {
-  title: 'AI Flavor Finder - Latte Bliss India',
-  description: 'Discover your ideal Latte Bliss coffee concentrate flavor with our AI-powered recommendation tool. Input your preferences and dietary restrictions for a personalized suggestion.',
+  title: 'AI Flavor Finder - CafeAtOnce',
+  description: 'Discover your ideal CafeAtOnce coffee concentrate flavor with our AI-powered recommendation tool. Input your preferences and dietary restrictions for a personalized suggestion.',
 };
