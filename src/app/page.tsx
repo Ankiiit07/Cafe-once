@@ -16,12 +16,11 @@ export default function HomePage() {
       <section className="relative bg-gradient-to-r from-secondary via-background to-secondary py-20 md:py-32 rounded-xl overflow-hidden shadow-xl">
         <div className="absolute inset-0 opacity-20">
            <Image 
-            src="https://placehold.co/1200x600.png" // Replace with a relevant, high-quality coffee image
-            alt="Coffee beans background" 
-            layout="fill" 
-            objectFit="cover" 
-            className="transform scale-110"
-            data-ai-hint="coffee beans background"
+            src="https://storage.googleapis.com/project-idm-images/user_uploaded/CafeAtOnce_product_in_bag.png"
+            alt="Cafe@once Cold Brew product in a handbag" 
+            fill
+            className="transform scale-110 object-cover"
+            data-ai-hint="product handbag"
           />
         </div>
         <div className="container mx-auto px-4 text-center relative z-10">
